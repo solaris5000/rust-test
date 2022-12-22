@@ -1,4 +1,8 @@
 # rust-test
+[About]
+THIS IS A CALCULATOR, for now, i guess.
+
+
 [How to use]
 First of all the programm will ask you to input first number and press Enter
 Then it will ask you to input the second number and press Enter
