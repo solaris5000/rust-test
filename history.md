@@ -10,3 +10,6 @@ Aviable operations:
 - - substraction
 * - multiplication
 / - division
+
+[0.0.4]
+Now calculator has history.
